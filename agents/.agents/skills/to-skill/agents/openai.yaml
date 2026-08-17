@@ -1,0 +1,6 @@
+interface:
+  display_name: "To Skill"
+  short_description: "Turn a process, conversation, or idea into a reusable skill."
+
+policy:
+  allow_implicit_invocation: false

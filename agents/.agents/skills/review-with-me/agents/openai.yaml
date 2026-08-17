@@ -1,0 +1,7 @@
+interface:
+  display_name: "Review With Me"
+  short_description: "Review generated diffs as logical commits"
+  default_prompt: "Use $review-with-me to guide me through reviewing this diff one logical commit at a time."
+
+policy:
+  allow_implicit_invocation: false

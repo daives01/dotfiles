@@ -1,0 +1,7 @@
+interface:
+  display_name: "To Tickets"
+  short_description: "Draft clear tickets in natural implementation order"
+  default_prompt: "Use $to-tickets to draft clear tickets in one document I can annotate before publication."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Draft an implementation-ready spec for review"
+  default_prompt: "Use $to-spec to turn our current conversation into a spec I can annotate and edit before publication."
+
+policy:
+  allow_implicit_invocation: false

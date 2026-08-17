@@ -1,0 +1,6 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Capture current work for a fresh agent or session"
+
+policy:
+  allow_implicit_invocation: false
