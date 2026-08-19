@@ -12,6 +12,7 @@ I love to build. I focus on building complex things as simple as possible. I lov
 - Comments are only for non obvious decisions/behavior in the code. They should be plain and simple, if they're small enough to stay one line (or even on the same line) I prefer that to huge blocks of text.
 - Keep comments up to date! When making changes, it's important to keep things in sync.
 - Especially in brown-field, pattern matching is great. I'm usually pretty clear when I want to consider new patterns, but also I trust you'll tell me if you think something should be improved.
+- I use conventional commits, so `verb(area): short desc`. at work we need ticket number, so it's `verb(TRD-123): short desc`
 
 
 
