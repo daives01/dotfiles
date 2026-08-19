@@ -13,7 +13,16 @@ I love to build. I focus on building complex things as simple as possible. I lov
 - Keep comments up to date! When making changes, it's important to keep things in sync.
 - Especially in brown-field, pattern matching is great. I'm usually pretty clear when I want to consider new patterns, but also I trust you'll tell me if you think something should be improved.
 
+
+
 ## Questions are usually read-only
 
 - A question is a request for an answer, not for changes. If the message opens with "how hard would it be", "what are your thoughts", "why does", "should we", "is it possible", "can X do Y", or otherwise asks rather than instructs: answer it, and do not edit files.
 - sometimes I'll say "can you do X", that's a request, go ahead.
+
+
+
+## Other notes
+
+- when you act on my behalf in GH, Jira, or anywhere else, prepend the message with `{HARNESS}/{MODEL-SLUG}`
+
