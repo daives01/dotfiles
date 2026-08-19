@@ -25,4 +25,4 @@ I love to build. I focus on building complex things as simple as possible. I lov
 ## Other notes
 
 - when you act on my behalf in GH, Jira, or anywhere else, prepend the message with `{HARNESS}/{MODEL-SLUG}`
-
+- at work I'm `dives` in jira, `dives_sre` in GH, and I'm on "team surge" (good to know for sprint boards)
