@@ -1,4 +1,4 @@
-I'm Daniel, a software eng. I write a lot of code and work on a lot of stuff. At work (Bamboo Rose) it's trade-engine and some other repos. For personal stuff it's all over. I wanted to detail some info about how I like to work, but TLDR:
+I'm Daniel, a software eng. I write a lot of code and work on a lot of stuff. At work (Lob) it's mostly rendering-v2 and related repos. For personal stuff it's all over. I wanted to detail some info about how I like to work, but TLDR:
 I love to build. I focus on building complex things as simple as possible. I love finding ways to reduce complexity when solving problems.
 
 ## Coding preferences - general
@@ -12,7 +12,7 @@ I love to build. I focus on building complex things as simple as possible. I lov
 - Comments are only for non obvious decisions/behavior in the code. They should be plain and simple, if they're small enough to stay one line (or even on the same line) I prefer that to huge blocks of text.
 - Keep comments up to date! When making changes, it's important to keep things in sync.
 - Especially in brown-field, pattern matching is great. I'm usually pretty clear when I want to consider new patterns, but also I trust you'll tell me if you think something should be improved.
-- I use conventional commits, so `verb(area): short desc`. at work we need ticket number, so it's `verb(TRD-123): short desc`
+- I use conventional commits, so `verb(area): short desc`. at work we need ticket number, so it's `verb(REN-123): short desc`
 
 
 
@@ -25,5 +25,4 @@ I love to build. I focus on building complex things as simple as possible. I lov
 
 ## Other notes
 
-- when you act on my behalf in GH, Jira, or anywhere else, prepend the message with `{HARNESS}/{MODEL-SLUG}` like `Cursor/cursor-grok-4.6`
-- at work I'm `dives` in jira, `dives_sre` in GH, and I'm on "team surge" (good to know for sprint boards)
+- when you act on my behalf in GH, Jira, or anywhere else, prepend the message with `{HARNESS}/{MODEL-SLUG}` like `ClaudeCode/claude-opus-5.5`
