@@ -11,7 +11,9 @@ Each top-level directory is a Stow package whose contents mirror `$HOME`:
 
 The canonical global instructions live at `agents/.agents/AGENTS.md`. Codex does
 not read that location directly, so `agents/.codex/AGENTS.md` is a relative
-symlink to the canonical file.
+symlink to the canonical file. Claude Code gets the same treatment:
+`agents/.claude/CLAUDE.md` links to the canonical file and `agents/.claude/skills`
+links to the shared skills directory.
 
 Skills live below `agents/.agents/skills/<skill-name>/SKILL.md`. This is both the
 native user-level skill location and discoverable by the Skills CLI when pointed
