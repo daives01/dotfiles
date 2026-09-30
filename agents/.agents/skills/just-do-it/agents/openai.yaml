@@ -1,6 +1,0 @@
-interface:
-  display_name: "Just Do It"
-  short_description: "Record a small unscheduled fix in Jira and start the work immediately."
-
-policy:
-  allow_implicit_invocation: false
