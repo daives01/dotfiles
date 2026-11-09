@@ -34,4 +34,4 @@ Never include secrets or sensitive personal data. Omit the value entirely rather
 
 ## Finish
 
-Read the handoff once as if you had no conversation history. Fix missing context, stale claims, and instructions that are not actionable. Then point me to the file and summarize its intended next step in one sentence.
+Read the handoff once as if you had no conversation history. Fix missing context, stale claims, and instructions that are not actionable. Then point me to the file and summarize its intended next step in one sentence. If you're in T3 code, spin up a new thread (unless I specifically asked you not to)

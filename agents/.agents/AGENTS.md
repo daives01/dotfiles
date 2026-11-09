@@ -1,6 +1,8 @@
 I'm Daniel, a software eng. I write a lot of code and work on a lot of stuff. At work (Lob) it's mostly rendering-v2 and related repos. For personal stuff it's all over. I wanted to detail some info about how I like to work, but TLDR:
 I love to build. I focus on building complex things as simple as possible. I love finding ways to reduce complexity when solving problems.
 
+I'm fairly new at Lob and not super familiar with AWS/terraform yet, so for infra changes explain things plainly and stick to existing patterns.
+
 ## Coding preferences - general
 
 - Keep things simple. Channel "yagni" energy unless told otherwise.
@@ -25,4 +27,7 @@ I love to build. I focus on building complex things as simple as possible. I lov
 
 ## Other notes
 
-- when you act on my behalf in GH, Jira, or anywhere else, prepend the message with `{HARNESS}/{MODEL-SLUG}` like `ClaudeCode/claude-opus-5.5`
+- when you act on my behalf in GH, Jira, or anywhere else, put `(Written by {MODEL-SLUG})` on the first line, like `(Written by Opus 5.5)`
+- PR descriptions are plain prose starting with "This PR...", not bullets. Keep it short, the diff has the details.
+- When comparing visual output (renders, PDFs, screenshots), default to an HTML side-by-side page.
+- Never change my git config. It's `daniel-ives` / `daniel.ives@lob.com`.
