@@ -1,0 +1,6 @@
+interface:
+  display_name: "To HTML"
+  short_description: "Show me what we're talking about as an HTML page, especially PDF render comparisons."
+
+policy:
+  allow_implicit_invocation: false

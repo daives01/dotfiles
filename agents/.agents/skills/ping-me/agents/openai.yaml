@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ping Me"
+  short_description: "use to message me you need my attention, not for normal threads, but for long running jobs, monitoring, or if I asked you to"
+
+policy:
+  allow_implicit_invocation: true

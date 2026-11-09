@@ -1,0 +1,6 @@
+interface:
+  display_name: "Babysit"
+  short_description: "Watch a PR through review and CI until it's ready to merge."
+
+policy:
+  allow_implicit_invocation: false
