@@ -1,3 +1,9 @@
 .DS_Store
 skills-lock.json
 .skill-lock.json
+
+# Machine-local agent files
+agents/.agents/skills/synced/
+agents/.agents/skills/query-prod/
+agents/.codex/config.toml
+agents/.codex/hooks.json
