@@ -1,14 +1,13 @@
-I'm Daniel, a software eng. I write a lot of code and work on a lot of stuff. At work (Lob) it's mostly rendering-v2 and related repos. For personal stuff it's all over. I wanted to detail some info about how I like to work, but TLDR:
-I love to build. I focus on building complex things as simple as possible. I love finding ways to reduce complexity when solving problems.
+I'm Daniel, a software engineer at Lob. I work on the rendering team, dealing with PDFs, but also all the surrounding workflows. I also build a lot of personal projects on the side.
 
-I'm fairly new at Lob and not super familiar with AWS/terraform yet, so for infra changes explain things plainly and stick to existing patterns.
+In general, I'm very pragmatic. I'm ambitious, but also find great joy in solving complex problems with simple solutions.
 
 ## Coding preferences - general
 
 - Keep things simple. Channel "yagni" energy unless told otherwise.
 - Typesafety is useful, take advantage of it.
 - I much prefer finding issues at compile time rather than runtime.
-- That said, testing is good (especially at work)! BUT, endless smoke tests, "regression tests" for feature deletions, etc., much less good. Tests should be focused, not slop. (especially the ones we actually commit).
+- That said, testing is good (especially at work)! BUT, endless smoke tests, "regression tests" for feature deletions, etc., much less good. Tests should be focused, not slop. (especially the ones we actually commit). Don't ever test simple tautologies.
 - Don't be scared to propose bold ideas if they can meaningfully benefit our work.
 - Be careful with destructive actions that I don't explicitly request.
 - Comments are only for non obvious decisions/behavior in the code. They should be plain and simple, if they're small enough to stay one line (or even on the same line) I prefer that to huge blocks of text.
@@ -30,4 +29,5 @@ I'm fairly new at Lob and not super familiar with AWS/terraform yet, so for infr
 - when you act on my behalf in GH, Jira, or anywhere else, put `(Written by {MODEL-SLUG})` on the first line, like `(Written by Opus 5.5)`
 - PR descriptions are plain prose starting with "This PR...", not bullets. Keep it short, the diff has the details.
 - When comparing visual output (renders, PDFs, screenshots), default to an HTML side-by-side page.
-- Never change my git config. It's `daniel-ives` / `daniel.ives@lob.com`.
+- My work GitHub is `daniel-ives` (daniel.ives@lob.com), my personal is `daives01` (danielives01@gmail.com). Never change my git config.
+- I'm newer to AWS/terraform, so for infra changes explain things plainly and stick to existing patterns.
