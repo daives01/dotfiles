@@ -1,0 +1,6 @@
+interface:
+  display_name: "Full Stop"
+  short_description: "Use when I want a change taken from code to a reviewed, proven draft PR without me in the loop until it's ready to look at."
+
+policy:
+  allow_implicit_invocation: false
