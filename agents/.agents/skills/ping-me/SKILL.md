@@ -20,4 +20,6 @@ Write it like a quick message from a coworker: what you're working on, then what
 - "I'm babysitting the rendering-v2 PR, CI keeps failing on a test I don't think we touched. Can you take a look?"
 - "I'm running the prod migration dry run, it wants AWS 2FA. Can you run `refresh-all-aws-creds`?"
 
+Never put punctuation right after a link. Slack folds it into the URL and the link breaks, so the script rejects it. Put links last, or follow them with a space or newline, e.g. "The rendering-v2 PR is ready for review: https://github.com/lob/rendering-v2/pull/755"
+
 Ping once per issue, again only if it gets meaningfully worse. Slack replies don't reach you, so keep questions in the thread.
